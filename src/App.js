@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 
-import Header from "/Users/harshgupta/Desktop/age/age/src/Comoponents/Header/Header.js";
-import KeyPad from "/Users/harshgupta/Desktop/age/age/src/Comoponents/Keypad/Keypad.js";
-
+import Header from "./Components/Header/Header";
+import KeyPad from "./Components/KeyPad/KeyPad";
+import moonIcon from './assets/moon.png';
+import sunIcon from './assets/sun.png';
 
 
 import './App.css';
