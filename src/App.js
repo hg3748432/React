@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 
 import Header from "./Components/Header/Header";
 import KeyPad from "./Components/KeyPad/KeyPad";
-import moonIcon from './assets/moon.png';
-import sunIcon from './assets/sun.png';
+import moonIcon from './moon.png';
+import sunIcon from './sun.png';
 
 
 import './App.css';
