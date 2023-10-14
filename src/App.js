@@ -3,8 +3,7 @@ import React, { useEffect, useState } from "react";
 import Header from "/Users/harshgupta/Desktop/age/age/src/Comoponents/Header/Header.js";
 import KeyPad from "/Users/harshgupta/Desktop/age/age/src/Comoponents/Keypad/Keypad.js";
 
-import moonIcon from '/Users/harshgupta/Desktop/age/age/src/moon.png';
-import sunIcon from '/Users/harshgupta/Desktop/age/age/src/sun.png';
+
 
 import '/Users/harshgupta/Desktop/age/age/src/App.css';
 const usedKeyCodes = [
