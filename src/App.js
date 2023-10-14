@@ -5,7 +5,7 @@ import KeyPad from "/Users/harshgupta/Desktop/age/age/src/Comoponents/Keypad/Key
 
 
 
-import '/Users/harshgupta/Desktop/age/age/src/App.css';
+import './App.css';
 const usedKeyCodes = [
   48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 96, 97, 98, 99, 100, 101, 102, 103,
   104, 105, 8, 13, 190, 187, 189, 191, 56, 111, 106, 107, 109,
